@@ -25,9 +25,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODQyNGY2OGZmOTQwMThiMWJlM2YyZTBmMjM0N2Q0MzZhOGQwOTJkNyZjdD1n/X8taZLaVRTFq2tBFrw/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
 [Giphy](https://giphy.com)
 
 ## Notes
